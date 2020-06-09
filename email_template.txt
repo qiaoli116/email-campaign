@@ -1,1 +1,2 @@
 email_template V1
+email_template update V2
